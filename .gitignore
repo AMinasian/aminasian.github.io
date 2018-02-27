@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-metadata
+_gh_pages
+.ruby-version
+
+.DS_Store
+Thumbs.db
+._*
+
+Gemfile.lock
+*.gem
+.bundle/
+.ruby-version
+.ruby-gemset
